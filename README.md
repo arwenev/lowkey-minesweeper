@@ -1,6 +1,6 @@
 # Lowkey Minesweeper
 
-I got bored at work so I created a Minesweeper disguised as a "Console Debugger" window, built so it looks like legitimate dev output at a glance.
+I got bored at worok and wanted to play minesweeper without getting caught, so I created a Minesweeper disguised as a "Console Debugger" window, built so it looks like legitimate dev output at a glance.
 
 ## Setup
 
